@@ -7,6 +7,7 @@ authors = ["Chloe Nott <chloe@nott.email>"]
 [tool.poetry.dependencies]
 python = "^3.9"
 nltk = "^3.6.6"
+pytest-watch = "^4.2.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
